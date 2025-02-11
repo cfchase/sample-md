@@ -46,6 +46,6 @@ seed_examples:
         answer: World 5-3
 document:
   repo: 'https://github.com/cfchase/sample-md.git'
-  commit: 46d75aa25727722b6d50be494da4514671186b3a
+  commit: b5bbdd7516fd5f06956f2a1e3f207790a750c00e
   patterns:
     - 'README.md'
